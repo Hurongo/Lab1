@@ -1,0 +1,17 @@
+commit c997a34a024be6a85fa6bf8342577b376772824e (HEAD -> main, origin/main, origin/HEAD)
+Author: Hurongo <vitaliy.koltok@gmail.com>
+Date:   Mon Mar 24 18:51:15 2025 +0200
+
+    Readme.txt
+
+commit dd5000cec7b6c8ad2889377cdfc28c435a71ef52
+Author: Hurongo <vitaliy.koltok@gmail.com>
+Date:   Mon Mar 24 18:22:24 2025 +0200
+
+    Вирішення конфліктів
+
+commit 947f72ccb600874c785b475612a9c98c6b92f167
+Author: Hurongo <121259870+Hurongo@users.noreply.github.com>
+Date:   Mon Mar 24 17:16:41 2025 +0200
+
+    Initial commit
